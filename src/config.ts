@@ -7,7 +7,7 @@ export const NOM = {
   [ChainId.Baklava]: "",
 };
 
-export const NomstronautAddress = "0x11E3f251EE1a4C989c2f39C0041312C18ae780e1";
+export const NomstronautAddress = "0x72422d4D22Da24Ef6C19F482CB34e4905d0339e4";
 
 export const MintTime = 1642011386 //1642114800
 
